@@ -153,7 +153,7 @@ public void onActivityResult(int requestCode, int resultCode, Intent data){
 ### 引入包
 
 ```
-import * as WeiboAPI from 'react-native-weibo';
+import * as WeiboAPI from 'rn-weibo-kun';
 ```
 
 ### API
